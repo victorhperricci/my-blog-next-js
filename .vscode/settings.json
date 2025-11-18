@@ -13,6 +13,7 @@
   "editor.minimap.enabled": false,
   "workbench.editor.enablePreview": false,
 
+  // CODE RUNNER
   "code-runner.clearPreviousOutput": true,
   "code-runner.runInTerminal": true,
   "code-runner.ignoreSelection": true,
